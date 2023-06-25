@@ -1,7 +1,7 @@
 # Bem vindo(a) ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas - UNESA
-- 🌱 Atualmente estou aprendendo Front-End
+- 🌱 Atualmente estou aprendendo Front-End na Alura
 - 👯 Nos meus repositórios você encontra alguns dos meus projetos
 - 🌎 Vinhedo - SP
 
